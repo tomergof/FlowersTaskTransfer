@@ -17,21 +17,19 @@ For the best hyper parameter tuning results and when choosing the most accurate 
 <br>
 ## Files in the Repository 📚
 
-*Hyperparameter Tuning*
+***Hyperparameter Tuning***
 
 The full process of choosing all the relevant hyperparameters in the algorithms.
 
-*Function & Packages*
-
-All the packages that needs to be installed.
+***Function & Packages***
 
 All the function for activating the project's pipe.
 
-*Main*
+***Main***
 
 Calling the main function of the project.
 
-*Packages and Libraries*
+***Packages and Libraries***
 
 All required packages and libraries.
 
