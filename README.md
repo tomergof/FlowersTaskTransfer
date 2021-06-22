@@ -13,12 +13,20 @@ The second method is changing the net architecture.
 <br>
 ## Files in the Repository 📚
 *Hyperparameter Tuning*
+
 The full procces of chossing all the relevant hyperparameters in the algorithms.
+
 *Function & Packages*
+
 All the packages that needs to be installed.
+
 All the function for activating the project's pipe.
+
 *Main*
+
 Calling the main function of the project.
+
 *Packages and Libraries*
+
 All required packages and libraries.
 
