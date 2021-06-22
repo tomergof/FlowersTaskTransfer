@@ -17,6 +17,7 @@ For the best hyper parameter tuning results and when choosing the most accurate 
 
 <br>
 ## Files in the Repository 📚
+
 *Hyperparameter Tuning*
 
 The full process of choosing all the relevant hyperparameters in the algorithms.
