@@ -14,7 +14,6 @@ The second method is changing the net architecture.
 ## Test Results 🏆
 For the best hyper parameter tuning results and when choosing the most accurate model, I obtained an accuracy rate of 72.67% on the test set.
 **After using data augmentation**, the accuracy improved to 80.23%.
-
 <br>
 ## Files in the Repository 📚
 
