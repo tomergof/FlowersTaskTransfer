@@ -11,6 +11,11 @@ I used to methods to try and improve the model's accuracy.
 The first method is Data Augmentation - making the training set 3 times bigger than the original.
 The second method is changing the net architecture.
 <br>
+## Test Results 🏆
+For the best hyper parameter tuning results and when choosing the most accurate model, I obtained an accuracy rate of 72.67% on the test set.
+**After using data augmentation**, the accuracy improved to 80.23%.
+
+<br>
 ## Files in the Repository 📚
 *Hyperparameter Tuning*
 
