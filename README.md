@@ -1,5 +1,5 @@
 # FlowersTaskTransfer 🌷
-Applying task transfer learning while using a pre-trained neural network (ResNet50V2).
+Implementing a task transfer learning while using a pre-trained neural network (ResNet50V2).
 
 ## Part A - Task Transfer 🚍
 ResNet50V2 was originally used for identifying between 1000 different classes. I changed the output layer to a single neuron, so it can be used for a binary classification - decide whether the picture is flower or not.
@@ -14,7 +14,7 @@ The second method is changing the net architecture.
 ## Files in the Repository 📚
 *Hyperparameter Tuning*
 
-The full procces of chossing all the relevant hyperparameters in the algorithms.
+The full process of choosing all the relevant hyperparameters in the algorithms.
 
 *Function & Packages*
 
