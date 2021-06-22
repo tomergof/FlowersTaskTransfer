@@ -1,0 +1,10 @@
+# Important! Change the data path to the images' folder on your computer
+
+
+data_path = ""
+test_images_indices = list(range(301, 473))
+train_images_indices = list(range(1, 301))
+
+# To run the entire project:
+
+main_final(data_path, train_images_indices, test_images_indices)
