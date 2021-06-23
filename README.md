@@ -47,8 +47,10 @@ The code above enables you to call main_no_imporovements AND main_final, which w
 *For Part B:*
 
      main_final(data_path, train_images_indices, test_images_indices)
-<br>
+
 ## Results & Conclusions 🏆
+
+
 Before implementing the improvements, the basic pipeline's results where 72.67% on the test.
 Below is the confusion matrix (threshold=0.5) for the basic pipeline:
 
