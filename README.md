@@ -40,3 +40,11 @@ seaborn : For enhancing the style of matplotlib plots.
 geopandas : For plotting maps.
 
 Go to FlowerData-20210623.zip and click "view raw" to download the flowers' images.
+<br>
+## Importing the Data 📚
+To import the data, first download it to your computer.
+Choose arbitrary test indexes (171), and train indexes (300).
+     data_path = ""
+     test_images_indices = list(range(301, 473))
+     train_images_indices = list(range(1, 301))
+
