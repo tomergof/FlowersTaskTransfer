@@ -62,6 +62,7 @@ Below is the confusion matrix (threshold=0.5) for the basic pipeline:
 <br>
 **After** using data augmentations technichs, and incresasing the training set to 3 times bigger, the results imporved to 80.23% accuracy on the same test set.
 Below is the confusion matrix (threshold=0.5) after the data augmentation:
+
 ![image](https://user-images.githubusercontent.com/61631269/123086259-dc525e80-d42b-11eb-9b68-e9c295fe77f3.png)
 
 It is worth mentioning that changing the architectre of the net, by adding another global layer (after the pooling layer), with 512 neurons, did not improve the results so it is not reported here.
