@@ -55,4 +55,12 @@ The code above enables you to call main_no_imporovements AND main_final, which w
      main_final(data_path, train_images_indices, test_images_indices)
 <br>
 ## Results & Conclusion
+**Before** implementing the improvements, the basic pipeline's results where 72.67% on the test.
+Below is the confusion matrix (threshold=0.5) for the basic pipeline:
+
 ![image](https://user-images.githubusercontent.com/61631269/123073263-f0439380-d41e-11eb-9661-71ed99d94ffa.png)
+<br>
+**After** using data augmentations technichs, and incresasing the training set to 3 times bigger, the results imporved to 80.23% accuracy on the same test set.
+Below is the confusion matrix (threshold=0.5) after the data augmentation:
+     
+
