@@ -29,4 +29,4 @@ import random
 import time
 ```
 
-Go to FlowerData-20210623.zip and click "view raw" to donwload the flowers' images.
+Go to FlowerData-20210623.zip and click "view raw" to download the flowers' images.
