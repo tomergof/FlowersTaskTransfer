@@ -38,10 +38,13 @@ Choose arbitrary test indexes (171), and train indexes (300).
      data_path = "" # The path where your data is located
      test_images_indices = list(range(301, 473))
      train_images_indices = list(range(1, 301))
+     
 The code above enables you to call main_no_imporovements AND main_final, which will activate part A or part B pipeline:
 *For Part A:*
+
      main_no_improvements(data_path, train_images_indices, test_images_indices)
 *For Part B:*
+
      main_final(data_path, train_images_indices, test_images_indices)
 <br>
 ## Results & Conclusion
