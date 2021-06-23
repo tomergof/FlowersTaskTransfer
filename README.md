@@ -29,16 +29,6 @@ import random
 import time
 ```
 
-This project uses the following Python libraries
-
-PyPDF2 : For extracting text from PDF files.
-spaCy : For passing the extracted text into an NLP pipeline.
-NumPy : For fast matrix operations.
-pandas : For analysing and getting insights from datasets.
-matplotlib : For creating graphs and plots.
-seaborn : For enhancing the style of matplotlib plots.
-geopandas : For plotting maps.
-
 Go to FlowerData-20210623.zip and click "view raw" to download the flowers' images.
 <br>
 ## Usage 🤔
