@@ -19,9 +19,9 @@ Use the package manager pip to install the following:
  pip install h5py==2.10.0
 ```
 
-Install and import:
+**Requirments**
 ```bash
-import tensorflow as tf
+tensorflow``` for loading the Convolotional Neural Network
 import cv2
 import scipy.io
 import numpy as np
