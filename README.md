@@ -33,3 +33,6 @@ Calling the main function of the project.
 
 All required packages and libraries.
 
+***FlowerData-20210623.zip***
+
+Enter the file and click "view raw" to donwload the flowers' images.
